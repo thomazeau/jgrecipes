@@ -16,9 +16,8 @@ This is it friends <!-- TODO: Replace with your description -->
 - :pushpin: The library loads in the browser - no local dependencies
 - :cloud: Serve locally and on GitHub Pages or Netlify
 -->
-<!--
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+
+[Get Started](#docsifyjs-template) 
 
 <!-- TODO: Set your background color or image. -->
 ![color](#b3d9f8)

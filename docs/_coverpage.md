@@ -17,7 +17,7 @@ A compilation of my frequently used recipes <!-- TODO: Replace with your descrip
 - :cloud: Serve locally and on GitHub Pages or Netlify
 -->
 
-[Go to recipe list](#landingpage) 
+[Go to recipe list](README) 
 
 <!-- TODO: Set your background color or image. -->
 ![color](#b3d9f8)

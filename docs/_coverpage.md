@@ -17,7 +17,7 @@ A compilation of my frequently used recipes <!-- TODO: Replace with your descrip
 - :cloud: Serve locally and on GitHub Pages or Netlify
 -->
 
-[Go to recipe list](#docsifyjs-template) 
+[Go to recipe list](#landingpage) 
 
 <!-- TODO: Set your background color or image. -->
 ![color](#b3d9f8)

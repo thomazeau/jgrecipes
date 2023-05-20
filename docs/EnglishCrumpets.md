@@ -8,7 +8,7 @@ How to make delicious English crumpets, simple step by step instructions from st
 
 ### Yeast starter
 
-- 235g / 235 mls Lukewarm water / 40°C / 104°F
+- 250g / 250 mls Lukewarm water / 40°C / 104°F
 - 6g / 1 tsp Sugar
 - 4g / 1 tsp yeast
 
@@ -20,7 +20,7 @@ How to make delicious English crumpets, simple step by step instructions from st
 
 ### Additional items
 
-- 1 Tbsp Olive oil & 30g / 1 oz soft butter, for greasing the crumpet rings
+- 1 Tbsp oil & 30g / 1 oz soft butter, for greasing the crumpet rings
 - 4" crumpet rings
 
 ## Method
@@ -31,7 +31,7 @@ How to make delicious English crumpets, simple step by step instructions from st
 - Using a hand whisk, beat the mixture together for 2 minutes.
 - Scrape down the sides, cover the bowl, and rest it in a warm spot for 45 minutes.
 - Near the end of the 45 minutes, heat up a large non stick frying pan to a temperature of 190°C that’s 375°F.
-- Add the olive oil and soft butter to a bowl.
+- Melt butter, add oil.
 - Using a pastry brush, coat the inside of one of the rings with the butter and oil mixture.
 - Place the ring into the hot pan.
 - Your crumpet mix should now be active and bubbly.
@@ -45,3 +45,13 @@ How to make delicious English crumpets, simple step by step instructions from st
 - Once golden brown, remove them from the pan and onto a wire rack to cool.
 - Once completely cool, you can freeze these or keep them in your fridge until needed.
 - To serve these wonderful crumpets, toast them for 3 minutes, serve with butter and maple syrup whilst still piping hot.
+
+## Notes
+
+
+<!--
+    20230520: Make for the first time. Rise time was 75 minutes due to a call. Nice and bubbly mix. Heat cast iron skillet at 1000W, then reduce to 700W to bake.
+    Yield: 5 crumpets using 2 4" rings.
+    Next time, increase the water from 235ml to 250ml to make it a bit thiner. 
+    
+-->

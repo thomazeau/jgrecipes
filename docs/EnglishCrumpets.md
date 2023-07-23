@@ -42,11 +42,9 @@ How to make delicious English crumpets, simple step by step instructions from st
 - Once golden brown, remove them from the pan and onto a wire rack to cool.
 
 
-<!--
-## Notes
+<!-- Notes
 
     20230520: Make for the first time. Rise time was 75 minutes due to a call. Nice and bubbly mix. Heat cast iron skillet at 1000W, then reduce to 700W to bake.
     Yield: 5 crumpets using 2 4" rings.
     Next time, increase the water from 235ml to 250ml to make it a bit thiner. 
-    
 -->

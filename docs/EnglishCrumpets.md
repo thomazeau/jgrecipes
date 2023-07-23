@@ -2,7 +2,7 @@
 
 How to make delicious English crumpets, simple step by step instructions from start to finish.
 
-[Watch on YouTube here](https://youtu.be/ganHDnSz3yw)
+[Source](https://youtu.be/ganHDnSz3yw)
 
 ## Ingredients
 
@@ -40,7 +40,6 @@ How to make delicious English crumpets, simple step by step instructions from st
 - Once the mixture has dried out around the edges, use your oven mitts to lift off the rings.
 - Once you see that the middles are less gooey, you can carefully turn them over to brown off the tops.
 - Once golden brown, remove them from the pan and onto a wire rack to cool.
-
 
 <!-- Notes
 

@@ -1,10 +1,6 @@
 # Sourdough Pancakes
 
-![Placeholder image](https://via.placeholder.com/150)
-
-## Description
-
-
+![Placeholder image](https://via.placeholder.com/300)
 
 ## Ingredients
 
@@ -26,14 +22,9 @@
 
 - Prepare the evening mix. Let sit out at room temperature overnight to allow dough to bloom
 - In the morning, mix the egg with additional ingredients in a cup, then merge into the dough
-- Add milk to get the correct consistency 
+- Add milk as needed to get the correct consistency 
 - Heat skillet at 1200W with butter. Grill one at a time
 
 ## Notes
 
 > 20230726: Success. Very good taste and texture.
-
-## Sources
-
-[jgoode.ca](https://jgoode.ca)
-

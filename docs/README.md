@@ -4,7 +4,7 @@
 ## Breakfast
 
 [Crumpets](EnglishCrumpets)
-[Sourdough Pancakes](Pancakes-Sourdough)
+[Sourdough_Pancakes](Pancakes-Sourdough)
 
 ## Breads
 

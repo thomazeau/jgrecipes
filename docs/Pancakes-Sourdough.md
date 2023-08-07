@@ -1,21 +1,22 @@
 # Sourdough Pancakes
 
-![Placeholder image](https://via.placeholder.com/300)
+![Pancakes](img/Pancakes.jpg)
 
 ## Ingredients
 
 ### Evening Mix
 
-- 3/4 cup Flour
+- ¾ cup Flour
+- ¼ tsp Salt
 - 1 Tbsp Sugar
-- 2/3 cup Milk
+- ⅔ cup Milk, warm (104℉)
 - 100 g Sourdough Starter
 
 ### Morning
 
 - 1 each Egg
-- 1/4 tsp Salt
-- 1/2 tsp Baking Soda
+- ¼ cup Milk
+- ½ tsp Baking Soda
 - 1 tsp Baking Powder
 
 ## Instructions

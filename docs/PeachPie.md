@@ -4,7 +4,6 @@
 
 Cooking time: 55 minutes
 Category: Dessert
-Cuisine: Canadian
 
 ## Ingredients
 
@@ -21,11 +20,9 @@ Cuisine: Canadian
   - 1/4 cup sugar, white
   - 1/4 teaspoon salt
   - 1/4 cup all-purpose flour
-  - 1 tablespoon corn starch (optional)
   - 1/4 teaspoon cinnamon
-  - 1/4 teaspoon ground nutmeg (optional)
+  - 1/4 teaspoon ground nutmeg
   - 2 tablespoons butter
-  - 1 tsp lemon juice (optional)
 
 ## Instructions
 

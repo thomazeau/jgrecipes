@@ -8,21 +8,21 @@ Category: Dessert
 ## Ingredients
 
 - **Pastry:**
-  - 2 ea pastry for a double-crust 9-inch pie
-  - 1 ea egg, beaten
-  - 2 tablespoons sugar
+  - 2 each Pastry for a double-crust 9-inch pie
+  - 1 each Egg, beaten
+  - 2 tablespoons Sugar
 - **Fruit mix:**
-  - 3 cups fresh peaches, sliced
-  - 1/2 cup sugar, white
-  - 1 tablespoons lemon juice (optional)
+  - 3 cups Peaches, fresh, sliced
+  - ½ cup Sugar, white
+  - 1 tablespoons Lemon juice (optional)
 - **Dry mix:**
-  - 1/4 cup brown sugar
-  - 1/4 cup sugar, white
-  - 1/4 teaspoon salt
-  - 1/4 cup all-purpose flour
-  - 1/4 teaspoon cinnamon
-  - 1/4 teaspoon ground nutmeg
-  - 2 tablespoons butter
+  - ¼ cup Sugar, brown
+  - ¼ cup Sugar, white
+  - ¼ teaspoon Salt
+  - ¼ cup Flour, all-purpose
+  - ¼ teaspoon Cinnamon
+  - ¼ teaspoon Nutmeg, ground
+  - 2 tablespoons Butter
 
 ## Instructions
 
@@ -43,7 +43,7 @@ Category: Dessert
 
 20230806: Use 750ml fresh peaches + mango cubes. Sourdough pastry for the first time. No starch.
 20220529: Use 750ml frozen peaches, sour cream pastry.
-20200802: Reduce flour from 1/2c to 1/4c. Use less than 5 cups of frozen, drained peaches. Overflowed just a little bit.
+20200802: Reduce flour from ½c to ¼c. Use less than 5 cups of frozen, drained peaches. Overflowed just a little bit.
 20190310: Sour-cream pastry. Drain frozen peaches before mixing.
 20180913: Martha's pastry. 20mn @ 425F, 35mn @ 350F. Enough mix for 4 tarts in silicone moulds.
 20171008: Second pie. Make Martha's pastry with Crisco.

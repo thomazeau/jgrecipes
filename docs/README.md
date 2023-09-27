@@ -5,6 +5,7 @@
 
 [Crumpets](EnglishCrumpets)
 [Sourdough_Pancakes](Pancakes-Sourdough)
+[Sourdough_Scones](Scones-Sourdough)
 
 ## Breads
 

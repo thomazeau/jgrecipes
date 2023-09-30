@@ -7,7 +7,6 @@
 ### Evening Mix
 
 - ¾ cup Flour
-- ¼ tsp Salt
 - 1 Tbsp Sugar
 - ⅔ cup Milk, warm (104℉)
 - 100 g Sourdough Starter
@@ -16,6 +15,7 @@
 
 - 1 each Egg
 - ¼ cup Milk
+- ¼ tsp Salt
 - ½ tsp Baking Soda
 - 1 tsp Baking Powder
 
@@ -26,6 +26,8 @@
 - Add milk as needed to get the correct consistency 
 - Heat skillet at 1200W with butter. Grill one at a time
 
+<!--
 ## Notes
 
 > 20230726: Success. Very good taste and texture.
+-->

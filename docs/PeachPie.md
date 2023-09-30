@@ -14,6 +14,7 @@ Category: Dessert
 - **Fruit mix:**
   - 3 cups Peaches, fresh, sliced
   - ½ cup Sugar, white
+  - Pinch of Salt
   - 1 tablespoons Lemon juice (optional)
 - **Dry mix:**
   - ¼ cup Sugar, brown
@@ -29,7 +30,7 @@ Category: Dessert
 - Preheat oven to 425 degrees F.
 - Line the bottom and sides of a 9 inch pie plate with one of the pie crusts. Brush with some of the beaten egg to keep the dough from becoming soggy later.
 - Stir together flour, sugar, and spices and set aside.
-- Wash, peel, and slice fresh peaches and sprinkle with lemon juice.
+- Wash, peel, and slice fresh peaches and sprinkle with lemon juice and sugar.
 - Mix together peaches with the combined dry ingredients.
 - Turn into pastry-lined pie pan and dot with butter.
 - Cover with top crust.

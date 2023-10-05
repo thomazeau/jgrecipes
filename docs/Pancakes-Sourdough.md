@@ -16,8 +16,8 @@
 - 1 each Egg
 - ¼ cup Milk
 - ¼ tsp Salt
-- ½ tsp Baking Soda
-- 1 tsp Baking Powder
+- 1 tsp Baking Soda
+- ½ tsp Baking Powder
 
 ## Instructions
 

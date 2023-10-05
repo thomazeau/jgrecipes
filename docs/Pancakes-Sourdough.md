@@ -17,7 +17,6 @@
 - ¼ cup Milk
 - ¼ tsp Salt
 - 1 tsp Baking Soda
-- ½ tsp Baking Powder
 
 ## Instructions
 
@@ -29,5 +28,7 @@
 <!--
 ## Notes
 
+> 20231005: Super bubbly mix. Remove baking powder. Last addition of milk can be reduced or eliminated if the sourdough is very active.
+>
 > 20230726: Success. Very good taste and texture.
--->
+> -->

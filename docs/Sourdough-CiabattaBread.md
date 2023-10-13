@@ -25,6 +25,9 @@ Originating from the Lake Como region of northern Italy, ciabatta means “slipp
 - **Bake:** Heat oven to 475ºF. Transfer pan to oven and bake for 10 minutes. Lower heat to 450ºF, rotate pan, and bake for 10 minutes more. Remove pan from oven. Transfer ciabatta rolls to a cooling rack. Let cool for 20 to 30 minutes before slicing. 
 
 <!-- Notes
+
+20231013: 13h00 : Mix ingredients. 
+
 20231004: First time. 10h00: Mix ingredients. Finish stretch & fold at 16h30. Place in 1.5 liter glass bread pan (perfect size). 21h30 place in fridge. 20231007: After 60 hours in the fridge, cut into 8 rectangles. Let rise 1 hour. Bake in two batches 20 minutes at 450℉ on pizza stone. Rise nicely. A little rubbery and sourdough taste, but good. Share with Scott Ness tribe.
 
 

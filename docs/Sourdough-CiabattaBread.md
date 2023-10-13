@@ -8,7 +8,7 @@ Originating from the Lake Como region of northern Italy, ciabatta means “slipp
 
 ## Ingredients
 
-- 360 grams Water (104℉)
+- 350 grams Water (104℉)
 - 12 grams Salt 
 - 100 grams Sourdough starter, active 
 - 450 grams Flour, bread 

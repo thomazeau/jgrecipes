@@ -26,7 +26,7 @@ Originating from the Lake Como region of northern Italy, ciabatta means “slipp
 
 <!-- Notes
 
-20231013: 13h00 : Mix ingredients. 
+20231013: 13h00 : Mix ingredients. 16:00 Bulk fermentation 5.5h. 21h30 place in fridge 34h. Cut into two long baguettes. Let rise 1 hour. Bake in BBQ with parchement directly on the grill. During the first 10mn, the temp went up to 500℉. Bottom crust carbon. Reduce all 3 burners to Min. Temperature goes down to 400℉. Rises beautifully. A little humid inside. Next time increase bake time to 25mn and use a baking tray.
 
 20231004: First time. 10h00: Mix ingredients. Finish stretch & fold at 16h30. Place in 1.5 liter glass bread pan (perfect size). 21h30 place in fridge. 20231007: After 60 hours in the fridge, cut into 8 rectangles. Let rise 1 hour. Bake in two batches 20 minutes at 450℉ on pizza stone. Rise nicely. A little rubbery and sourdough taste, but good. Share with Scott Ness tribe.
 

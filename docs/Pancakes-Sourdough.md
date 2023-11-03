@@ -7,8 +7,8 @@
 ### Evening Mix
 
 - ¾ cup Flour
-- 1 Tbsp Sugar
-- ⅔ cup Milk, warm (104℉)
+- 1 tablespoon Sugar
+- ½ cup Milk, warm (104℉)
 - 100 g Sourdough Starter
 
 ### Morning

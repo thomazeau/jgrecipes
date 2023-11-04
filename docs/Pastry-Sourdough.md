@@ -4,26 +4,25 @@
 
 ## Ingredients
 
-- **Dry mix:**
-  - 2⅔ c Flour
-  - 1 tsp Baking powder
-  - 2 teaspoons Gluten
-  - ½ tsp Salt
-  - ½ lb Cisco
+**Dry mix:**
+- 2¾ cups Flour, Bread
+- 1 tsp Baking soda
+- ½ tsp Salt
+- ½ lb Shortening
+- 100 grams Sourdough
   
-- **Wet mix:**
-  - 1 each Egg
-  - 1 tsp Vinegar
-  - ⅔ cup Water (top up)
-  - 100 grams Sourdough
+**Wet mix:**
+- 1 each Egg
+- 1 tsp Vinegar
+- ⅔ cup Water (top up)
 
 ## Instructions
 
-- Mix flour, baking powder & salt in medium stainless steel bowl
+- Mix flour, baking soda & salt in medium stainless steel bowl
 - Cut in shortening until crumbly
-- In a small container, prepare wet mix, then stir into dry mix
-- Mix then cover and let bloom overnight
-- In the morning, mix with fork and add flour as needed, then place on a floured surface to form
+- Add sourdoough, mix then cover and let bloom overnight
+- In the morning, prepare wet mix, then stir into dry mix
+- Place on a floured surface to form
 - Cut into two balls, then cool in refrigerator 15 min to make it easier to roll
 - Roll on floured surface
 

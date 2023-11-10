@@ -8,7 +8,7 @@
 
 - ¾ cup Flour
 - 1 tablespoon Sugar
-- ½ cup Milk, warm (104℉)
+- ⅔ cup Milk, warm (104℉)
 - 100 g Sourdough Starter
 
 ### Morning
@@ -21,7 +21,8 @@
 ## Instructions
 
 - Prepare the evening mix. Let sit out at room temperature overnight to allow dough to bloom
-- In the morning, mix the egg with additional ingredients in a cup, then merge into the dough
+- In the morning, if the dough is not very active or sour, add a shot of vinegar
+- Mix the egg with additional ingredients in a cup, then merge into the dough
 - Add milk as needed to get the correct consistency 
 - Heat skillet at 1200W with butter. Grill one at a time
 

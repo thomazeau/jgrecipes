@@ -3,6 +3,7 @@
 ## Breakfast
 
 [Crumpets](EnglishCrumpets)
+[Granola](Granola)
 [Sourdough_Pancakes](Pancakes-Sourdough)
 [Sourdough_Scones](Scones-Sourdough)
 

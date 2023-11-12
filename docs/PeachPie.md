@@ -8,14 +8,16 @@ Category: Dessert
 ## Ingredients
 
 - **Pastry:**
-  - 2 each Pastry for a double-crust 9-inch pie
+  - 2 each [Pastry](Pastry-Sourdough) for a double-crust 9-inch pie
   - 1 each Egg, beaten
   - 2 tablespoons Sugar
+- 
 - **Fruit mix:**
   - 3 cups Peaches, fresh, sliced
   - ½ cup Sugar, white
   - Pinch of Salt
   - 1 tablespoons Lemon juice (optional)
+- 
 - **Dry mix:**
   - ¼ cup Sugar, brown
   - ¼ cup Sugar, white

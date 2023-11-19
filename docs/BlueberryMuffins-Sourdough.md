@@ -8,18 +8,23 @@ These easy sourdough muffins use up some discard to give your muffins a deliciou
 
 ## Ingredients
 
-### Wet Mix
+### Wet Mix A  
 
-- ¼ cup Butter, melted (shortening, lard, vegetable oil or coconut oil)
-- ⅔ cup Sugar
-- 2 each Eggs, room temperature
-- ½ cup Milk (104 F)
+- ½ cup Milk (104℉)
 - ½ cup Flour
-- 100 grams Sourdough
+- 100 grams Sourdough  
+- 1 teaspoon Lemon juice
+
+### Wet Mix B  
+
+- ¼ cup Butter, melted (shortening, lard, or vegetable oil)
+- ¾ cup Sugar
+- 1 teaspoon Lemon zest
+- 2 each Eggs, room temperature  
 
 ### Dry Mix
 
-- 1 cup Flour, all-purpose 
+- 1 cup Flour, cake or all-purpose 
 - 2 teaspoons Baking Powder
 - ½ teaspoon Baking Soda
 - ½ teaspoon Salt
@@ -45,6 +50,8 @@ Cranberry Orange Muffins:
 
 <!-- 
 ## Notes
+
+20231119: 13h00: Mix wet ingredients in two parts. Make 8 cups 150x150mm. 6 aluminum, 2 parchment. Add lemon zest + juice. Brush tops with 35% cream + sprinkle with cane sugar crystals. Bake 20mn @ 400℉. Yield: 8 tall muffins.
 
 20231119: Let wet mix sit 2 hours. Butter. Use 3/4c instead of 2/3c sugar to counterbalance the sourdough taste. Include 1 Tbsp mashed banana. Try 4 cups made of 120x120mm aluminum foil. Try 130x130mm next time. Brush tops with 35% cream + sprinkle with cane sugar crystals. Bake 20mn @ 400℉. Yield: 10 muffins.
 
@@ -75,6 +82,6 @@ https://everydayfull.com/no-wait-sourdough-muffins/
 
 https://www.allrecipes.com/recipe/281307/sourdough-blueberry-muffins/
 
-
+[SugarGeekShow: Lemon Blueberry Muffins](https://sugargeekshow.com/wprm_print/18230)
 
 -->

@@ -1,6 +1,6 @@
 # Blueberry Muffins - Sourdough
 
-![Blueberry Muffins](BlueberryMuffins.jpg)
+![Blueberry Muffins](img/BlueberryMuffins.jpg)
 
 ## Description
 

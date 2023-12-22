@@ -11,6 +11,7 @@ A daily treat I prepare for Marie to bring back memories of our years spent in H
 - 1 Tablespoon Apple Sauce  
 - ¼ Teaspoon Cinnamon, ground
 - ¼ Teaspoon Ginger, ground
+- 2 Teaspoons Sugar, brown  
 - 1 Tablespoon Lime Juice, freshly squeezed 
 
 ## Instructions

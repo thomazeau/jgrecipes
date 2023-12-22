@@ -19,3 +19,7 @@
 
 [Peach_Pie](PeachPie)  
 [Pastry - Sourdough](Pastry-Sourdough)  
+
+## Beverages
+
+[Marie's Tropical Smoothie](TropicalSmoothie)

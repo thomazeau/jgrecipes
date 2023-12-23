@@ -1,5 +1,7 @@
 # Marie's Tropical Smoothie
 
+![Marie's Tropical Smoothie](img/TropicalSmoothie.jpg)
+
 A daily treat I prepare for Marie to bring back good memories of our years spent in Haiti 
 
 ## Ingredients

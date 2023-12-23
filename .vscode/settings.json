@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "English (Canadian)"
+    ],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext",
+        "html",
+        "markdown",
+        "mjml"
+    ],
+    "spellright.parserByClass": {
+        "mjml": {
+            "parser": "plain"
+        }
+    }
+}

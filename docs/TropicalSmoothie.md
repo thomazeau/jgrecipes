@@ -27,10 +27,4 @@ A daily treat I prepare for Marie to bring back good memories of our years spent
 <!--
 ## Notes
 
-
-
-## Sources
-
-[jgoode.ca](https://jgoode.ca)
-
 -->

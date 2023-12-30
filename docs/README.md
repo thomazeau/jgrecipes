@@ -1,16 +1,16 @@
-# Recipes
+# John's Recipes
 
 ## Breakfast
 
-[Crumpets](EnglishCrumpets)  
+[Crumpets](EnglishCrumpets)   
 [Granola](Granola)  
-[Sourdough_Pancakes](Pancakes-Sourdough)  
-[Sourdough_Scones](Scones-Sourdough)  
-[Sourdough_Blueberry_Muffins](BlueberryMuffins-Sourdough)  
+[Pancakes - Sourdough](Pancakes-Sourdough)  
+[Scones - Sourrdough](Scones-Sourdough)  
+[Blueberry Muffins - Sourdough](BlueberryMuffins-Sourdough)  
 
 ## Breads
 
-[Ciabatta Buns - Sourdough](Sourdough-CiabattaBread)  
+[Ciabatta Buns - Sourdough](CiabattaBread-Sourdough.md)  
 
 
 ## Deserts

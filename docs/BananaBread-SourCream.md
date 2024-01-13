@@ -39,8 +39,8 @@ Sour cream makes this loaf so moist it melts in your mouth.
 
 <!--
 ## Notes
-
-20240106: Use 100g sourdough. Reduce flour to 2 cups. Took 1h15 @ 300℉ to fully bake. Rises nicely in oven. Releases beautifully from pans. Texture is moist. Tastes delicious. Next time keep flour @ 2¼ cups, allowing perhaps bake time to be reduced.
+**20240113**: Second batch. Mix 100g sourdough with ½ cup flour + some liquid from the mashed bananas and let bloom 2 hours. Next time, need to add the sourdough mix before the banana mash, as I noticed clumps of sourdough in the baked bread. Reduced sour cream to ¾ cup. Keep total flour @ 2¼ cups. Bake 1h15 @ 300℉. 
+**20240106**: Use 100g sourdough. Reduce flour to 2 cups. Took 1h15 @ 300℉ to fully bake. Rises nicely in oven. Releases beautifully from pans. Texture is moist. Tastes delicious. Next time keep flour @ 2¼ cups, allowing perhaps bake time to be reduced.
 
 ## Sources
 

@@ -5,7 +5,7 @@
 [Crumpets](EnglishCrumpets)   
 [Granola](Granola)  
 [Pancakes - Sourdough](Pancakes-Sourdough)  
-[Scones - Sourrdough](Scones-Sourdough)  
+[Scones - Sourdough](Scones-Sourdough)  
 [Blueberry Muffins - Sourdough](BlueberryMuffins-Sourdough)  
 
 ## Breads
@@ -15,10 +15,12 @@
 
 ## Deserts
 
-### Pies
+### Pies / Tarts
 
 [Peach_Pie](PeachPie)  
 [Pastry - Sourdough](Pastry-Sourdough)  
+[Butter Tarts](ButterTarts)  
+[Butter Tarts - Dolly](ButterTarts-Dolly)  
 
 
 

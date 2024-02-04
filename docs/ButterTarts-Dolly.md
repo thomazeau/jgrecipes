@@ -35,7 +35,7 @@
 <!-- 
 Notes
 
-2024: Make first batch. 
+20240204: Make first batch. 215g light brown sugar, 17g blackstrap, 335g corn syrup.  
 
 20240201: Received from Daisy Leslie.
 

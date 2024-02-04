@@ -32,7 +32,7 @@
 - Place pastry in muffin tins, fill half way up
 - Bake @ 350℉ for 20-25 minutes
 
-## See almonds
+## See also  
 
 [Butter Tarts](ButterTarts)  
 [Pastry - Sourdough](Pastry-Sourdough)  

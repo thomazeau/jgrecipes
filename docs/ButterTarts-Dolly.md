@@ -35,12 +35,12 @@
 ## See also  
 
 [Butter Tarts](ButterTarts)  
-[Pastry - Sourdough](Pastry-Sourdough)  
+
 
 <!-- 
 Notes
 
-20240204: Make first batch. 215g light brown sugar, 17g blackstrap, 335g corn syrup.  
+20240204: Make first batch. 215g light brown sugar, 17g blackstrap, 335g corn syrup. Used currents and raisins, and leftover sourdough pastry. Bake 22 minutes. Made 14, with filling left over for another time. Sourdough pastry tastes a little too strong for a good tart. 
 
 20240201: Received from Daisy Leslie.
 

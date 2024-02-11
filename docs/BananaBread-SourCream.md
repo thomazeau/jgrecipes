@@ -24,11 +24,11 @@ Sour cream makes this loaf so moist it melts in your mouth.
 
 ### Dry Mix 
 
-- 2¼ cups Flour
-- 2 teaspoons Baking Soda
-- ¼ teaspoon Salt
-- ¾ cup Walnuts, chopped
-  
+- 2¼ cups Flour  
+- 2 teaspoons Baking Soda  
+- ¼ teaspoon Salt  
+- ¾ cup Walnuts, chopped  
+
 ## Instructions
 
 - Preheat the oven to 300℉. Grease two bread pans.

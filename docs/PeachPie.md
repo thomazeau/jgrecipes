@@ -21,10 +21,10 @@ Category: Dessert
 - **Dry mix:**
   - ¼ cup Sugar, brown
   - ¼ cup Sugar, white
-  - ¼ teaspoon Salt
   - ¼ cup Flour, all-purpose
+  - ¼ teaspoon Salt  
   - ¼ teaspoon Cinnamon
-  - ¼ teaspoon Nutmeg, ground
+  - ⅛ teaspoon Nutmeg, ground
   - 2 tablespoons Butter
 
 ## Instructions
@@ -33,6 +33,7 @@ Category: Dessert
 - Line the bottom and sides of a 9 inch pie plate with one of the pie crusts. Brush with some of the beaten egg to keep the dough from becoming soggy later.
 - Stir together flour, sugar, and spices and set aside.
 - Wash, peel, and slice fresh peaches and sprinkle with lemon juice and sugar.
+- If using thawed, frozen peaches, drain  
 - Mix together peaches with the combined dry ingredients.
 - Turn into pastry-lined pie pan and dot with butter.
 - Cover with top crust.

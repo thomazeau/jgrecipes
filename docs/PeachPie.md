@@ -8,7 +8,7 @@ Category: Dessert
 ## Ingredients
 
 - **Pastry:**
-  - 2 each [Pastry](Pastry-Sourdough) for a double-crust 9-inch pie
+  - 2 each [Pastry](Pastry-Sour_Cream) for a double-crust 9-inch pie
   - 1 each Egg, beaten
   - 2 tablespoons Sugar
 - 
@@ -29,18 +29,18 @@ Category: Dessert
 
 ## Instructions
 
-- Preheat oven to 425 degrees F.
-- Line the bottom and sides of a 9 inch pie plate with one of the pie crusts. Brush with some of the beaten egg to keep the dough from becoming soggy later.
-- Stir together flour, sugar, and spices and set aside.
-- Wash, peel, and slice fresh peaches and sprinkle with lemon juice and sugar.
+- Preheat oven to 450℉
+- Line the bottom and sides of a 9 inch pie plate with one of the pie crusts. Brush with some of the beaten egg to keep the dough from becoming soggy later
+- Stir together flour, sugar, and spices and set aside
+- Wash, peel, and slice fresh peaches and sprinkle with lemon juice and sugar
 - If using thawed, frozen peaches, drain  
-- Mix together peaches with the combined dry ingredients.
-- Turn into pastry-lined pie pan and dot with butter.
-- Cover with top crust.
-- Flute the edges to seal or press the edges with the tines of a fork dipped in egg. Brush the remaining egg over the top crust and sprinkle with sugar. Cut several slits in the top crust to vent steam.
-- Bake 20 minutes, then reduce to 350 degrees F for 35 minutes or until crust is brown and juice begins to bubble through the slits in the crust.
-- Cool before serving. This tastes better warm than hot.
-- Pie may be frozen for future use.
+- Mix together peaches with the combined dry ingredients
+- Turn into pastry-lined pie pan and dot with butter
+- Cover with top crust
+- Flute the edges to seal or press the edges with the tines of a fork dipped in egg. Brush the remaining egg over the top crust and sprinkle with sugar. Cut several slits in the top crust to vent steam
+- Bake 20 minutes, then reduce to 350 degrees F for 35 minutes or until crust is brown and juice begins to bubble through the slits in the crust
+- Cool before serving. This tastes better warm than hot
+- Pie may be frozen for future use
 
 
 <!-- Notes 

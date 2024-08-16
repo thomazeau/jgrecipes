@@ -31,6 +31,13 @@ Sour cream makes this loaf so moist it melts in your mouth.
 - ¾ cup Walnuts, chopped  
 - ½ cup Chocolate chips 
 
+### Icing
+
+- ¼ cup Butter, soft
+- ½ cup Sugar, Icing
+- ½ teaspoon Vanilla extract
+
+
 ## Instructions
 
 - Preheat the oven to 300℉. Grease two bread pans.
@@ -39,6 +46,7 @@ Sour cream makes this loaf so moist it melts in your mouth.
 - Add mashed bananas, sour cream, eggs, and vanilla; continue to beat until well-blended. 
 - In a medium stainless bowl, mix dry ingredients, then combine into wet mix. Stir in walnuts and chocolate chips, then place batter into the prepared pans.
 - Bake @ 300℉ for 75 minutes or until a toothpick inserted in center comes out clean.
+- Prepare the sweet glaze icing and then spread it on the bread right after it comes out of the oven.
 
 <!--
 ## Notes
@@ -50,5 +58,6 @@ Sour cream makes this loaf so moist it melts in your mouth.
 ## Sources
 
 [Allrecipes: Banana Sour Cream Bread](https://www.allrecipes.com/recipe/6984/banana-sour-cream-bread/)
+[Rustic Honey: Banana Bread with Icing](https://rustichoney.com/the-best-banana-bread-recipe-with-sweet-glaze-icing/)
 
 -->

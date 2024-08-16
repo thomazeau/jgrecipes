@@ -18,7 +18,6 @@
 ### Pies / Tarts
 
 [Peach Pie](PeachPie)  
-[Pastry - Sourdough](Pastry-Sourdough)  
 [Pastry - Sour Cream](Pastry-Sour_Cream)  
 [Butter Tarts](ButterTarts)  
 [Butter Tarts - Dolly](ButterTarts-Dolly)  

@@ -16,7 +16,7 @@ Ratio - Juice:Sugar = 10:7
 
 - Harvest crab apples during the last two weeks of August.
 
-![Harvest the fruit](img/crabapplejelly-10)
+![Harvest the fruit](img/crabapplejelly-10.jpg) 
 
 - Clean and remove bruised fruit, leaves. Soak in a sink or large bowl of cold water. Remove any other leaves or twigs. Rinse.
 

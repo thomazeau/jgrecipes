@@ -16,11 +16,13 @@ Ratio - Juice:Sugar = 10:7
 
 - Harvest crab apples during the last two weeks of August.
 
-![Harvest the fruit](img/crabapplejelly-10.jpg)
+![Harvest the fruit](img/crabapplejelly-10)
 
 - Clean and remove bruised fruit, leaves. Soak in a sink or large bowl of cold water. Remove any other leaves or twigs. Rinse.
 
 ![Rince and clean fruit](img/crabapplejelly-20.jpg)
+
+### Boil Fruit
 
 - Place 1.5kg of fruit in deep stainless pot leaving a few inches of headroom. Cover with water.
 
@@ -29,6 +31,10 @@ Ratio - Juice:Sugar = 10:7
 - Bring to boil at 1600W 15 minutes
 - Reduce to 700W for 10 minutes
 - Mash in pot and simmer at 700W for 5 minutes
+- Remove from heat and let cool  
+
+### Filter Juice
+
 - Strain through blue colander, discard pulp
 - Strain through white sieve - retain pulp for applesauce 
 - Collect juice and pass through cheese cloth or a jam bag overnight

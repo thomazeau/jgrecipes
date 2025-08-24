@@ -17,7 +17,7 @@ Ratio - Juice:Sugar = 10:7
 - Clean, remove bruised fruit, leaves. Soak in water, remove any other leaves, rinse.
 - Place 1.5kg of fruit in deep stainless pot leaving headroom, cover with water.
 
-![Boil crab apples](../img/20160814-121942.jpg)
+![Boil crab apples](img/20160814-121942.jpg)
 
 - Bring to boil at 1600W 15mn
 - Reduce to 700W for 10mn

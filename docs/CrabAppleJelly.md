@@ -1,6 +1,6 @@
 # Crab Apple Jelly
 
-![Crabapple Jelly](img/CrabAppleJelly.jpg)
+![Crab Apple Jelly](img/CrabAppleJelly.jpg)
 
 Ratio - Juice:Sugar = 10:7
 
@@ -14,30 +14,39 @@ Ratio - Juice:Sugar = 10:7
 
 ### Fruit Preparation
 
-- Clean, remove bruised fruit, leaves. Soak in water, remove any other leaves, rinse.
-- Place 1.5kg of fruit in deep stainless pot leaving headroom, cover with water.
+- Harvest crab apples during the last two weeks of August.
 
-![Boil crab apples](img/20160814-121942.jpg)
+![Harvest the fruit](img/crabapplejelly-10)
 
-- Bring to boil at 1600W 15mn
-- Reduce to 700W for 10mn
-- Mash in pot and simmer at 700W for 5mn
+- Clean and remove bruised fruit, leaves. Soak in a sink or large bowl of cold water. Remove any other leaves or twigs. Rinse.
+
+![Rince and clean fruit](img/crabapplejelly-20.jpg)
+
+- Place 1.5kg of fruit in deep stainless pot leaving a few inches of headroom. Cover with water.
+
+![Boil crab apples](img/crabapplejelly-30.jpg)
+
+- Bring to boil at 1600W 15 minutes
+- Reduce to 700W for 10 minutes
+- Mash in pot and simmer at 700W for 5 minutes
 - Strain through blue colander, discard pulp
 - Strain through white sieve - retain pulp for applesauce 
-- Take juice and pass through cheese cloth overnight
+- Collect juice and pass through cheese cloth or a jam bag overnight
 
-![Strain pulp](img/20190915-V30-143835.jpg)
+![Strain to remove coarse pulp](img/crabapplejelly-40.jpg)
 
-![Strain pulp](img/20190915-V30-143843.jpg)
+![Strain to remove medium pulp](img/crabapplejelly-50.jpg)
 
-![Strain pulp](img/20190915-V30-150907.jpg)
+![Strain to remove fine pulp](img/crabapplejelly-60.jpg)
 
 ### Jelly
 
 - Measure clear juice and add 70% volume of white sugar in large pot
 - Add fresh lime or lemon juice
 - Boil at 1,000W for 30-35 min
-- As soon as the mix starts to gel, remove from heat and place into sterilized jars and seal 
+- Follow this method in [Canadian Living](https://www.canadianliving.com/food/food-tips/article/how-to-tell-if-your-jam-or-jelly-is-set) to tell when the jelly is set
+- As soon as the mix gets to the gel stage, remove from heat and place jelly into sterilized jars. Seal. Label once the jars are at room temperature.
+- Voila !
 
 <!-- 
 ## Notes

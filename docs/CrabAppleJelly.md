@@ -1,4 +1,4 @@
-# Crab apple Jelly
+# Crab Apple Jelly
 
 ![Crabapple Jelly](img/CrabAppleJelly.jpg)
 
@@ -16,12 +16,21 @@ Ratio - Juice:Sugar = 10:7
 
 - Clean, remove bruised fruit, leaves. Soak in water, remove any other leaves, rinse.
 - Place 1.5kg of fruit in deep stainless pot leaving headroom, cover with water.
+
+![Boil crab apples](../img/20160814-121942.jpg)
+
 - Bring to boil at 1600W 15mn
 - Reduce to 700W for 10mn
 - Mash in pot and simmer at 700W for 5mn
 - Strain through blue colander, discard pulp
 - Strain through white sieve - retain pulp for applesauce 
 - Take juice and pass through cheese cloth overnight
+
+![Strain pulp](img/20190915-V30-143835.jpg)
+
+![Strain pulp](img/20190915-V30-143843.jpg)
+
+![Strain pulp](img/20190915-V30-150907.jpg)
 
 ### Jelly
 

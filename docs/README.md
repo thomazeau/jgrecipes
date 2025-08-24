@@ -22,7 +22,9 @@
 [Butter Tarts](ButterTarts)  
 [Butter Tarts - Dolly](ButterTarts-Dolly)  
 
+## Jams
 
+[Crab Apple Jelly](CrabAppleJelly)
 
 ## Beverages
 

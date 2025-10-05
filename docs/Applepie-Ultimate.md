@@ -4,7 +4,7 @@
 
 ### Pastry
 
-- [Pastry-Sour_Cream](Pastry-Sour_Cream.md)
+- 2 each [Pastry](Pastry-Sour_Cream) for a double-crust 9-inch pie
 
 ### Fruit
 

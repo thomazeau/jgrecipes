@@ -1,6 +1,6 @@
 # John's Applesauce
 
-![Applesauce](img/applesauce.jpg)
+![Applesauce](img/Applesauce.jpg)
 
 
 ## Ingredients

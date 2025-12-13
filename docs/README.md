@@ -25,7 +25,7 @@
 
 ## Jams
 
-[Crab Apple Jelly](CrabAppleJelly)
+[Crab Apple Jelly](CrabAppleJelly)  
 [John's Applesauce](JohnsApplesauce)
 
 ## Beverages

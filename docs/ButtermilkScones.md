@@ -1,6 +1,6 @@
 # Buttermilk Scones
 
-![Buttermilk Scones](img/ButtermilkScones.jpg)
+![Buttermilk Scones](img/fruit-scones.jpg)
 
 This recipe contains an egg. Best used for sweeter biscuits, for dessert. 
 

@@ -2,7 +2,7 @@
 
 Variation of Margaret Goode's buttermilk blueberry muffin recipe 
 
-![Blueberry Muffins](../img/BlueberryMuffins.jpg)
+![Blueberry Muffins](img/BlueberryMuffins.jpg)
 
 ## Ingredients
 

@@ -5,8 +5,8 @@
 [Crumpets](EnglishCrumpets)   
 [Granola](Granola)  
 [Pancakes - Sourdough](Pancakes-Sourdough)  
-[Scones - Sourdough](Scones-Sourdough)  
-[Blueberry Muffins - Sourdough](BlueberryMuffins-Sourdough)  
+[Scones - Buttermilk](ButtermilkScones)  
+[Blueberry Muffins - Buttermilk](BlueberryMuffins-Buttermilk-Moms)  
 
 ## Breads
 
